@@ -5,7 +5,7 @@ This project is an AI-powered system designed to analyze the movement of people 
 
 ## 🎥 Demo Preview
 
-![AI People Tracking](vid/red.mp4)
+![AI People Tracking](vid/red.gif)
 
 
 ## 🎯 Objectives
