@@ -3,7 +3,9 @@
 ## 📌 Project Overview
 This project is an AI-powered system designed to analyze the movement of people in different spaces using advanced computer vision techniques. The system is capable of real-time people tracking, zone-based movement analysis, and data visualization to help optimize space management in areas such as retail stores, airports, public squares, and commercial buildings.
 
+## 📽️ Demo Image
 ![Image](vid/1.jpg)
+![Image](vid/2.jpg)
 
 ## 🎯 Objectives
 - Provide **real-time analytics** on people movement.
